@@ -1,2 +1,2 @@
-# D-ONE
+# Dexolaret.xyz
 The journey so far...
