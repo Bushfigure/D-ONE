@@ -1,7 +1,7 @@
 # Dexolaret.xyz
 
-* The journey so far... Data helps you understand and improve business processes so you can reduce wasted money and time.
-* Dexcolaret helps individuals realize that the tools they have can be effectively used to tackle the challenges they encounter in their workplaces.
+* Dexolaret educates individuals on effectively using the data analytics tools they possess to tackle real-world challenges they encounter in their workplaces.
+We will be presenting real-world case studies to individuals, regardless of the industry they are in, because we believe that everyone's experience is valuable.
 
 We will be presenting real-world case studies to individuals, regardless of the industry they are in.
 # Industries
